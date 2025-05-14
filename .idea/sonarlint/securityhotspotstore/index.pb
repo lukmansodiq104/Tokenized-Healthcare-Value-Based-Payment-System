@@ -5,3 +5,5 @@ L
 contracts/cost-tracking.clar,5/a/5a28245e15d75dba6e74e507e196f8d0b7c2b768
 R
 "contracts/patient-attribution.clar,3/7/370afb9ad8e2314ee58f90a20b0b896fae7d6dbb
+T
+$contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
